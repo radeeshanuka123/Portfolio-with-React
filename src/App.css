@@ -577,6 +577,63 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 100%;
 }
 
+/*
+.technology-category {
+  margin-bottom: 20px;
+}
+
+.technology-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.technology-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.technology-icon {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.technology-name {
+  font-size: 18px;
+}
+
+*/
+/* Add this CSS to your stylesheet */
+.technology-category {
+  margin-bottom: 20px;
+  
+}
+
+.technology-list {
+  list-style: none;
+  padding: 0;
+}
+
+.technology-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.technology-icon {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+
+.technology-name {
+  font-size: 1.2rem;
+}
+
+.row > .col-md-6 {
+  margin-bottom: 20px;
+}
+
 /************ Footer Css ************/
 .footer {
   padding: 0 0 50px 0;
